@@ -1,8 +1,8 @@
 class GithubSync < Formula
   desc "GitHub organization repository sync/backup tool with parallel cloning, filtering, progress bars, and JSON summary"
   homepage "https://github.com/SphereCircle/sc-tools-homebrew"
-  url "https://github.com/SphereCircle/sc-tools-homebrew/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "f68cf83ee9845c62a0aff07c3f93e0bdbdeb42e7f28a6861e5b5891fcddf687d"
+  url "https://github.com/SphereCircle/sc-tools-homebrew/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "4813d918f33c973daf1a056e1d16f4d37b3351db32b37287a502ec09a6ddb728"
   license "MIT"
 
   depends_on "bash"
