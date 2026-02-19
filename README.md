@@ -1,1 +1,1 @@
-# sc-tools-hombrew-tap
+# sc-tools-homebrew-tap
